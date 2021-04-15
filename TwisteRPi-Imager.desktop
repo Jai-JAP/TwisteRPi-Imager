@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=TwisteRPi-Imager
+Comment=RPi-Imager with Twister OS inside alongside all other OSes
+Icon=twisterpi-imager
+Exec=twisterpi-imager
+Categories=Utility
+StartupNotify=false
