@@ -5,10 +5,9 @@ All credits go to the [RPi-Imager team](https://github.com/raspberry/rpi-imager)
 
 This page hosts the patch files & json files required to add Twister OS in TwisteRPi-Imager alongside other OSes present in RPi-Imager.
 
-
-    - This patch persists over RPi-Imager updates and works well over the updates as it does not modify your default RPi-Imager.
-    - In case you need the original RPi-Imager (RPi-Imager with original configuration) it is readily available.
-    - It does work well with added TwisterOS until it is added to official RPi-Imager.
+   - This patch persists over RPi-Imager updates and works well over the updates as it does not modify your default RPi-Imager.
+   - In case you need the original RPi-Imager (RPi-Imager with original configuration) it is readily available.
+   - It does work well with added TwisterOS until it is added to official RPi-Imager.
 
 The TwisteRPi-Imager works by utilising the [Custom Repo](https://github.com/raspberrypi/rpi-imager#custom-repository) feature of RPi-Imager and some json files available on this page.
 
