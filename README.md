@@ -28,7 +28,7 @@ or
 Directly [download](https://github.com/Jai-JAP/TwisteRPi-Imager/raw/master/TwisteRPi-Imager_1.0.0_all.deb) and install [.deb file](https://github.com/Jai-JAP/TwisteRPi-Imager/blob/master/TwisteRPi-Imager_1.0.0_all.deb)
 ```
 wget https://github.com/Jai-JAP/TwisteRPi-Imager/raw/master/TwisteRPi-Imager_1.0.0_all.deb -O TwisteRPi-Imager.deb
-sudo dpkg -i ./TwisteRPi-Imager.deb
+sudo apt install ./TwisteRPi-Imager.deb
 sudo rm ./TwisteRPi-Imager.deb
 ```
 
