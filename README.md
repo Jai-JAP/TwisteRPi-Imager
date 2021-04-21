@@ -45,6 +45,7 @@ If installed using .deb file
 ```
 sudo apt purge twisterpi-imager
 ```
+## Usage
 
 To use **TwisteRPi-Imager**  run `twisterpi-imager` in terminal or use the menu entry **TwisteRPi-Imager**. 
 
