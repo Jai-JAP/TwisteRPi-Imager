@@ -16,7 +16,11 @@ In case you have any issues running this patch create a new issue [here](https:/
     
 ## This patch does not modify the default configuration of RPi-Imager.
 
-## To install TwisteRPi-Imager follow the below steps.   
+## To install TwisteRPi-Imager follow the below steps.  
+
+Firstly install RPi-Imager on your system. Just Google for instructions ;-) and proceed...
+
+Manual installation
 ```
 sudo wget https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/TwisteRPi-Imager.desktop -O /usr/share/applications/TwisteRPi-Imager.desktop
 sudo wget https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/twisterpi-imager.svg -O /usr/share/icons/twisterpi-imager.svg
