@@ -8,11 +8,11 @@
             "name": "Raspberry Pi OS (32-bit)",
             "description": "A port of Debian with the Raspberry Pi Desktop (Recommended)",
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
-            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-03-25/2021-03-04-raspios-buster-armhf.zip",
-            "extract_size": 3967811584,
-            "extract_sha256": "69d909fb67ea78d6b58b7efeabdfbf317df7ef54d39b43ba2016d4816e7b9511",
-            "image_download_size": 1231874816,
-            "release_date": "2021-03-04"
+            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf.zip",
+            "extract_size": 3972005888,
+            "extract_sha256": "34bd93c1dd2b91c548963470189c4c0fc8d65cba755d7e34ba77a7710233e2e3",
+            "image_download_size": 1203372157,
+            "release_date": "2021-10-30"
         },
         {
             "name": "Raspberry Pi OS (other)",
@@ -23,21 +23,21 @@
                     "name": "Raspberry Pi OS Lite (32-bit)",
                     "description": "A port of Debian with no desktop environment",
                     "icon": "https://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-03-25/2021-03-04-raspios-buster-armhf-lite.zip",
-                    "extract_size": 1866465280,
-                    "extract_sha256": "0e868ddb518e23ec67e826fb1cd153cdd198dbd644557b73f3a76c59fad486c8",
-                    "image_download_size": 463405209,
-                    "release_date": "2021-03-04"
+                    "url": "https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-lite.zip",
+                    "extract_size": 1954545664,
+                    "extract_sha256": "2bc2b6ed6844cf492e3026e526431620669c823e1503017338d4132599b4ca21",
+                    "image_download_size": 485827056,
+                    "release_date": "2021-10-30"
                 },
                 {
                     "name": "Raspberry Pi OS Full (32-bit)",
                     "description": "A port of Debian with desktop and recommended applications",
                     "icon": "https://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_Full_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-03-25/2021-03-04-raspios-buster-armhf-full.zip",
-                    "extract_size": 8610906112,
-                    "extract_sha256": "de9937d868a6cfffba5628aa037f8c6f77ce95803ff8693e313dab613900fe74",
-                    "image_download_size": 3007638235,
-                    "release_date": "2021-03-04"
+                    "url": "https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-11-08/2021-10-30-raspios-bullseye-armhf-full.zip",
+                    "extract_size": 9265217536,
+                    "extract_sha256": "59fc3a2e99727344b1733e417cbf7c7940b3bec0677b1982974f90c95e8c1621",
+                    "image_download_size": 3193174700,
+                    "release_date": "2021-10-30"
                 }
             ]
         },
