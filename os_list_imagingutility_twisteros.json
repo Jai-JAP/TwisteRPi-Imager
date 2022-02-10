@@ -12,7 +12,7 @@
             "release_date": "2021-06-24"
         },
         {
-            "name": "TwisterOS Lite v2.0.2 (RPi 4/400)",
+            "name": "TwisterOS Lite v2.1.2 (RPi 4/400)",
             "description": "32-bit minimal desktop OS with 11 Twister OS themes, box86 and Wine pre-installed",
             "url": "https://github.com/mobilegmYT/TwisterOS/releases/download/v2.1.2/TwisterOSLiteV2-1-2.img.xz",
             "icon": "https://github.com/Jai-JAP/TwisteRPi-Imager/raw/main/TwisterOS.png",
