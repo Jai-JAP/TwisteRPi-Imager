@@ -14,9 +14,10 @@ The TwisteRPi-Imager works by utilising the [Custom Repo](https://github.com/ras
 TwisteRPi-Imager is completely unofficial & unsupported by RPi-Imager team.
 In case you have any issues running this patch create a new issue [here](https://github.com/Jai-JAP/TwisteRpi-Imager/issues).
     
-## This patch does not modify the default configuration of RPi-Imager.
+### This patch does not modify the default configuration of RPi-Imager.
 
 ## To install TwisteRPi-Imager follow the below steps.  
+   ***[Note] Only the latest version of RPi-Imager is supported. The .json files maybe incompatible with older versions. If your system has an older version installed consider updating it to the latest.***
 
 Install Manually
 ```
