@@ -3,24 +3,26 @@
         {
             "name": "TwisterOS v2.1.2 (RPi 4/400)",
             "description": "32-bit desktop OS with a 11 Twister OS themes, box86, Wine, games and a lot more pre-installed",
-            "url": "https://archive.org/download/twister-osv-2-1-2.img/TwisterOSv2-1-2.img.xz",
             "icon": "https://github.com/Jai-JAP/TwisteRPi-Imager/raw/main/TwisterOS.png",
+            "url": "https://archive.org/download/twister-osv-2-1-2.img/TwisterOSv2-1-2.img.xz",
             "extract_size": 8848232960,
             "extract_sha256": "548d3f10a46f0ac4d5a63540d08a1824db062c71b7bd0b2d3e352930b273379c",
             "image_download_size": 2733727568,
             "image_download_sha256": "be1102d877b7437f7c62af3bd36b17e9213ffeb13abbb9bbe5b2c97fb0e60697",
-            "release_date": "2021-06-24"
+            "release_date": "2021-06-24",
+            "init_format": "systemd"
         },
         {
             "name": "TwisterOS Lite v2.1.2 (RPi 4/400)",
             "description": "32-bit minimal desktop OS with 11 Twister OS themes, box86 and Wine pre-installed",
-            "url": "https://github.com/mobilegmYT/TwisterOS/releases/download/v2.1.2/TwisterOSLiteV2-1-2.img.xz",
             "icon": "https://github.com/Jai-JAP/TwisteRPi-Imager/raw/main/TwisterOS.png",
+            "url": "https://github.com/mobilegmYT/TwisterOS/releases/download/v2.1.2/TwisterOSLiteV2-1-2.img.xz",
             "extract_size": 5137191424,
             "extract_sha256": "f01e27ce2a392a64cf449fb79e88282d6616d627aeabbb59f163871c997f9392",
             "image_download_size": 1282517120,
             "image_download_sha256": "725d1a260895e66d065b8812cfbbd8294069900ac1c6b2b970d46d9c93406185",
-            "release_date": "2021-06-24"
+            "release_date": "2021-06-24",
+            "init_format": "systemd"
         }
     ]
 }
