@@ -8,7 +8,6 @@
             "extract_size": 8848232960,
             "extract_sha256": "548d3f10a46f0ac4d5a63540d08a1824db062c71b7bd0b2d3e352930b273379c",
             "image_download_size": 2733727568,
-            "image_download_sha256": "be1102d877b7437f7c62af3bd36b17e9213ffeb13abbb9bbe5b2c97fb0e60697",
             "release_date": "2021-06-24",
             "init_format": "systemd"
         },
@@ -20,7 +19,6 @@
             "extract_size": 5137191424,
             "extract_sha256": "f01e27ce2a392a64cf449fb79e88282d6616d627aeabbb59f163871c997f9392",
             "image_download_size": 1282517120,
-            "image_download_sha256": "725d1a260895e66d065b8812cfbbd8294069900ac1c6b2b970d46d9c93406185",
             "release_date": "2021-06-24",
             "init_format": "systemd"
         }
