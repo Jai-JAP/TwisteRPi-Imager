@@ -122,7 +122,7 @@
                     "name": "Twister OS",
                     "description": "32-bit desktop OS for all pi 4 models",
                     "icon": "https://github.com/Jai-JAP/TwisteRPi-Imager/raw/main/TwisterOS.png",
-                    "subitems_url": "https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/os_list_imagingutility_twisteros.json"
+                    "subitems_url": "https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/os_list_twisteros.json"
                 }
             ]
         },
