@@ -1,6 +1,6 @@
 #!/bin/bash
 # Automated script to install RPi-Imager
-VER=1.6.3
+VER=1.7.1
 ARCH=$( dpkg --print-architecture )
 
 if [ ! -e /usr/bin/rpi-imager ]; then
