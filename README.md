@@ -19,13 +19,14 @@ In case you have any issues running this patch create a new issue [here](https:/
 ## To install TwisteRPi-Imager follow the below steps.  
    ***[Note] Only the latest version of RPi-Imager is supported. The .json files maybe incompatible with older versions. If your system has an older version installed consider updating it to the latest.***
 
-Install Manually
+Install Manually  
+ - *Prerequisites* : `rpi-imager`
 ```
 sudo wget -qO- https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/install_rpi-imager.sh | bash
 sudo wget https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/TwisteRPi-Imager.desktop -O /usr/share/applications/TwisteRPi-Imager.desktop
 sudo wget https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/twisterpi-imager.svg -O /usr/share/icons/twisterpi-imager.svg
 sudo wget https://raw.githubusercontent.com/Jai-JAP/TwisteRPi-Imager/main/twisterpi-imager -O /usr/local/bin/twisterpi-imager
-sudo chmod +x /usr/local/bin/twisterpi-imager
+sudo chmod +x /usr/local/bin/twisterpi-imager /usr/share/applications/TwisteRPi-Imager.desktop
 ```
 or
 
@@ -51,8 +52,7 @@ If installed using .deb file
 ```
 sudo apt purge twisterpi-imager
 ```
-  
-  
+    
 If you want to uninstall rpi-imager
 ```
 sudo apt purge rpi-imager
