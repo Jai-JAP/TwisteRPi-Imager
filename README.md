@@ -1,6 +1,8 @@
 # TwisteRPi-Imager
 RPi-Imager with Twister OS inside alongside all other OSes. 
 
+### ***NOTE: DEPRECATED***
+
 All credits go to the [RPi-Imager team](https://github.com/raspberry/rpi-imager) for making the imager.  
 
 This page hosts the patch files & json files required to add Twister OS in TwisteRPi-Imager alongside other OSes present in RPi-Imager.
